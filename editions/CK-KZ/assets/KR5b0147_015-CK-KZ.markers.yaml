@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR5b0147/CK-KZ/v1/markers/15
+seq: 15
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR5b0147_CK-KZ_015-front01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR5b0147_CK-KZ_015-bkkkrnewl1}
+  back: []
+hash: sha256:dc30b950177f28d8651f42364ddc2b97dc64c1a8aa8d515743154983969c24ed

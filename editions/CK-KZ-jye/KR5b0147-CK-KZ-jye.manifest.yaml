@@ -1,0 +1,290 @@
+canonical_identifier: bkk:krp/KR5b0147/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5b0147/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 要修科儀戒律鈔
+  date: '2015-08-28 23:50:02.723582'
+  source:
+    repository: kanripo
+    path: KR5b0147
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0147_000-CK-KZ-jye.yaml, hash: 'sha256:a72afdd398dbeb5b3f799982da833a9eae70a13c54296c2e37c687ca79c459a8'}
+  - {seq: 1, filename: KR5b0147_001-CK-KZ-jye.yaml, hash: 'sha256:3acc36196c252ee05a10acacd28174d9943dd0dd7be9c5a405c13b12a249e942'}
+  - {seq: 2, filename: KR5b0147_002-CK-KZ-jye.yaml, hash: 'sha256:45fd73f97c11722d59e39ede203a1a3b26b825343737e176fd457b6a5ebe155a'}
+  - {seq: 3, filename: KR5b0147_003-CK-KZ-jye.yaml, hash: 'sha256:6590d8b49fc1f310365133e03f0bd29a8118bcd9ef15665d9cf3cd87dd8b80f0'}
+  - {seq: 4, filename: KR5b0147_004-CK-KZ-jye.yaml, hash: 'sha256:fd94761df49b04fd72451393ae4fe43f6c4ac5f0307e12fa297b7487ce248843'}
+  - {seq: 5, filename: KR5b0147_005-CK-KZ-jye.yaml, hash: 'sha256:7d83d5f74db8282dc11eb31f6bf4e61ea7eb5bece851aabd8befa4c6e2602c0f'}
+  - {seq: 6, filename: KR5b0147_006-CK-KZ-jye.yaml, hash: 'sha256:b43383da088b307fcb6f063e997d849c7a3122832092b6e98980952faa1d5410'}
+  - {seq: 7, filename: KR5b0147_007-CK-KZ-jye.yaml, hash: 'sha256:4187ffc87c63b9892a52366fc267a0040540da75302471fae47790e432aa6650'}
+  - {seq: 8, filename: KR5b0147_008-CK-KZ-jye.yaml, hash: 'sha256:63f63e9778fa72371783a6de90535d04f0fc35cf091c1547dd44e29fde63e169'}
+  - {seq: 9, filename: KR5b0147_009-CK-KZ-jye.yaml, hash: 'sha256:1463ad59f0f6465e9cf35634030b551322137a77e3405deaac5b8cd5e799e725'}
+  - {seq: 10, filename: KR5b0147_010-CK-KZ-jye.yaml, hash: 'sha256:5bc620aa56c2b7d4045368a0edbd18e001a418b1348515f9641bb84b4009d2b0'}
+  - {seq: 11, filename: KR5b0147_011-CK-KZ-jye.yaml, hash: 'sha256:17b3d26adf780b2a185358c9717739cf85b700ceffd06a490aff5a8c53246121'}
+  - {seq: 12, filename: KR5b0147_012-CK-KZ-jye.yaml, hash: 'sha256:7c0a3d842791e87711f55bdb8ee02bafbe2100318176cdd8c93afc1eac094495'}
+  - {seq: 13, filename: KR5b0147_013-CK-KZ-jye.yaml, hash: 'sha256:2fa9be3a2041cbbd4541eb697812819dba10c031798c38d240a65d5b643d2c14'}
+  - {seq: 14, filename: KR5b0147_014-CK-KZ-jye.yaml, hash: 'sha256:ccbd5c5f127f522da1070ba19ba2f099808a9a51dfd88443f4ff1dfbc983a486'}
+  - {seq: 15, filename: KR5b0147_015-CK-KZ-jye.yaml, hash: 'sha256:9af3f0529f96d6c36879005984fa228bf5d5c261b05d15026eae46c57ef6e59c'}
+  - {seq: 16, filename: KR5b0147_016-CK-KZ-jye.yaml, hash: 'sha256:be8e02817a74419307b194906d570e8361c2e6542817f5a6391bec93ca785dc4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5b0147_001-CK-KZ-jye.markers.yaml, hash: 'sha256:6186055a4a5be319cb73908d9593dddd825284efa5ee7bf0e17d9238042a2772'}
+  - {seq: 2, role: markers, filename: assets/KR5b0147_002-CK-KZ-jye.markers.yaml, hash: 'sha256:ca7cb28612b1bafd4a3d64a4247ca94d6bb9b2028a26b28c9d96a7e2daccb8d3'}
+  - {seq: 3, role: markers, filename: assets/KR5b0147_003-CK-KZ-jye.markers.yaml, hash: 'sha256:e4df408e7bf00ef7adeb76824a95bab6e69c66ca5e10983737e598ab54144034'}
+  - {seq: 4, role: markers, filename: assets/KR5b0147_004-CK-KZ-jye.markers.yaml, hash: 'sha256:dccff9c874402573f910339fe9b05fa32bd52159199f66e00e45485b98d8e0ba'}
+  - {seq: 5, role: markers, filename: assets/KR5b0147_005-CK-KZ-jye.markers.yaml, hash: 'sha256:ec59f842792c060757be8849d6d27f9987d19c7b3ed763e2ebc049bae82026f7'}
+  - {seq: 6, role: markers, filename: assets/KR5b0147_006-CK-KZ-jye.markers.yaml, hash: 'sha256:0808b7fdd223b0678b6ca382721c203bf17fbb5ec7efdeac44dc79d4ca0e4a5e'}
+  - {seq: 7, role: markers, filename: assets/KR5b0147_007-CK-KZ-jye.markers.yaml, hash: 'sha256:3d653dc2d20ac9ebd18af7257f9990dd00b81c01f23482458fcaa0cdc1b34328'}
+  - {seq: 8, role: markers, filename: assets/KR5b0147_008-CK-KZ-jye.markers.yaml, hash: 'sha256:c8d7c6110d6ac588d483c2b85d5ce25332d1e80fa58c8f81e26bda6cbcc39e95'}
+  - {seq: 9, role: markers, filename: assets/KR5b0147_009-CK-KZ-jye.markers.yaml, hash: 'sha256:d84e61fe2b43fc6347dc99eb95e16d01f43b5a319a449c825d866d38448ec1e1'}
+  - {seq: 10, role: markers, filename: assets/KR5b0147_010-CK-KZ-jye.markers.yaml, hash: 'sha256:5a4cb79748875e4c5b502c00a25b2a3d7c3089672c4ac1a622d5da836432842f'}
+  - {seq: 11, role: markers, filename: assets/KR5b0147_011-CK-KZ-jye.markers.yaml, hash: 'sha256:f7037265415a24a22937d9d2eba3b54f8c33d2504292eca0d2750edd10b2b78c'}
+  - {seq: 12, role: markers, filename: assets/KR5b0147_012-CK-KZ-jye.markers.yaml, hash: 'sha256:753427e597769e0d5d7c884e40525845f8c8058bb74c14c214e11cb93812821d'}
+  - {seq: 13, role: markers, filename: assets/KR5b0147_013-CK-KZ-jye.markers.yaml, hash: 'sha256:a84ddd1c599e3bbe42d9af0f9c5fa0c665abc4bc938e10a2d951d82b6b53a483'}
+  - {seq: 14, role: markers, filename: assets/KR5b0147_014-CK-KZ-jye.markers.yaml, hash: 'sha256:674cfa9e9c17d6dca95fb14201573a393d46fafdff1586babfe6d4f6df9c3187'}
+  - {seq: 15, role: markers, filename: assets/KR5b0147_015-CK-KZ-jye.markers.yaml, hash: 'sha256:a2a3657f80d12e87a60cea5384628296601dd37fde0034babb626a6731197c73'}
+  - {seq: 16, role: markers, filename: assets/KR5b0147_016-CK-KZ-jye.markers.yaml, hash: 'sha256:d105bfdacd22c4e76a188533472a952c75a77d5b36970f11d2b46516eb0afb88'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5b0147_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 624
+  label: 部秩鈔
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0147_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 624
+    - 2152
+  label: 傳經鈔
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0147_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 2152
+    - 2530
+  label: 折傳鈔
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0147_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 2530
+    - 3317
+  label: 年限鈔
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0147_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 0
+    - 264
+  label: 寫經鈔
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0147_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 264
+    - 1746
+  label: 存念咒鈔¶<md:KR5b0147_HFL_002-002a>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0147_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 1746
+    - 2625
+  label: 講說咒
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0147_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 2625
+    - 4446
+  label: 發心鈔¶<md:KR5b0147_HFL_002-010a>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0147_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 4446
+    - 6599
+  label: 受持鈔
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0147_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 3277
+  label: 要修科儀戒律鈔卷之三¶¶¶¶¶¶<md:KR5b0147_HFL_002-022b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5b0147_HFL_003-001a>¶¶¶¶¶¶¶¶<md:KR5b0147_HFL_002-022b>
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5b0147_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 0
+  label: 要修科儀戒律鈔卷之
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 007
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 008
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 009
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 010
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 011
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR5b0147_CK-KZ-jye_012-h1
+    span:
+    - body
+    - 0
+    - 0
+  label: 要
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 013
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR5b0147_CK-KZ_01p033a
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 014
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 015
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR5b0147_CK-KZ-jye_016-h2
+    span:
+    - body
+    - 0
+    - 2955
+  label: 衆戒及願念合一千一百條
+  type: section
+  level: 2
+hash: sha256:a94af05622390bdf5d21f9eb245200f9a3f06418f7c6e75ba57f8e929028cfde

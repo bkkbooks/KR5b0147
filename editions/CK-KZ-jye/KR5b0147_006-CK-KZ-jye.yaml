@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5b0147/CK-KZ-jye/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鈔
+  hash: sha256:d12517e5fcf848586d449d1d1e15c0b2147607d180e78495d4757bab13327c80
+metadata:
+  title: 要修科儀戒律鈔
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-28 23:50:02.723582'
+  source:
+    repository: kanripo
+    path: KR5b0147/KR5b0147_006.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:b43383da088b307fcb6f063e997d849c7a3122832092b6e98980952faa1d5410

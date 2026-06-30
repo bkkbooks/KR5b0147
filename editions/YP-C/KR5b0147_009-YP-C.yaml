@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5b0147/YP-C/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 儀
+  hash: sha256:d12e48da7b6dfb2c764b39ae4c7ace47e224ca68b19b8617c60754482528f1b5
+metadata:
+  title: 要修科儀戒律鈔
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-28 23:50:02.723582'
+  source:
+    repository: kanripo
+    path: KR5b0147/KR5b0147_009.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:ab09d75bdac2a9484711c93bd5f71f2636ea4c0f6ea84814bc412ff19e2b3ac0

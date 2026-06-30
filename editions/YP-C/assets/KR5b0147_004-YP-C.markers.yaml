@@ -1,0 +1,14 @@
+canonical_identifier: bkk:krp/KR5b0147/YP-C/v1/markers/4
+seq: 4
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5b0147_YP-C_004-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5b0147_YP-C_26zhangji-04-0033a01}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5b0147_YP-C_004-bkkkrnewl2}
+  back: []
+hash: sha256:06ca672c20130b128290243d7ea6dba724633ab4d54e7a5d8b6c568e3662a206
